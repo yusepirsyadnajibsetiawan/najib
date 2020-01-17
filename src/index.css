@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+#sidebar {
+  float: left;
+  width: 20%;
+  background-color: rgba(27, 175, 163, 0.712);
+}
+
+#navbar{
+  background:rgb(31, 68, 66);
+  width:75px;
+  float:left;
+  position: fixed;
+  padding: 5px;
+}
